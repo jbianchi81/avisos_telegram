@@ -1,9 +1,9 @@
 {
-	"series_id": 26202,
+	"series_id": 0,
 	"nivel_alerta": 3,
 	"qualifier": "main",
-	"cal_id": 432,
-	"url": "http://10.10.9.14:3005",
+	"cal_id": 0,
+	"url": "http://localhost:3000",
 	"apiUrl": "https://api.telegram.org/bot",
 	"apiToken": "my_bot_token",
 	"a5_token": "my_a5_token",
