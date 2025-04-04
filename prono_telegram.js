@@ -2,7 +2,7 @@
 'use strict'
 
 const axios = require("axios")
-const sprintf = require("sprintf-js")
+const sprintf = require("sprintf-js").sprintf
 const fs = require('fs')
 const config = require('config')
 
